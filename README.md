@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhrevolution01
 - 👀 I’m interested in Linux and software development on mobile and web
 - 🌱 I’m currently learning everything
-- 📫 How to reach me mharevolution01[at]gmail[dot]com
+- 📫 Reach me at mharevolution01[at]gmail[dot]com
 
 
 <!---
